@@ -1,5 +1,15 @@
-form{
-    font-style: italic;
-    color: yellow;
-    background-color: red;
+section{
+    color: aliceblue;
+    background-color: pink;
+    background-image:  url(Screenshot\ 2025-01-28\ 113608.png);
+    font-family: 'Times New Roman', Times, serif;
+    border: 30px groove blue; 
+
 }
+body{
+    border: 20px  solid black;
+    padding-left: 20px;
+    margin: 40px;
+    padding-bottom: 30px;
+    
+   }
